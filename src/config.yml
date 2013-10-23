@@ -1,0 +1,9 @@
+# Default Configuration for 'VersionIgnore' - Eden.Campo
+
+autoUpdate: true
+server-protocol: 78
+log-client-protocols: true
+serverList-fix: true
+oldVersion-ghost: false
+warnPlayers: true
+enableDebug: false

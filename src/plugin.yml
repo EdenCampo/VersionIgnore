@@ -1,0 +1,5 @@
+name: Version Ignore
+main: net.edencampo.versionignore.VersionIgnore
+version: 1.0.0
+author: Eden.Campo
+depend: [ProtocolLib]
