@@ -27,6 +27,7 @@ public class VersionIgnoreGhost implements Listener
 				{
 					plugin.ghosts.remove(id);
 				}
+				id++;
 			}
 		}
 	}
